@@ -1,0 +1,11 @@
+{
+  "name": "webscraper",
+  "version": "0.0.1",
+  "description": "this is a basic webscraper",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "Hopster",
+  "license": "ISC"
+}
